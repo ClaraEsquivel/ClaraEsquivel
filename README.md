@@ -19,7 +19,6 @@
   <img align="center" alt="Clara-Html" height="64" width="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-html-computer-programming-icons-flaticons-lineal-color-flat-icons.png" alt="HTML">
   <img align="center" alt="Clara-Css" height="64" width="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-css-computer-programming-icons-flaticons-lineal-color-flat-icons.png" alt="CSS">
   <img align="center" alt="Clara-Js" height="64" width="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-javascript-computer-programming-icons-flaticons-lineal-color-flat-icons.png" alt="JS">
-  <img align="center" alt="Clara-Api" height="64" width="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-integration-computer-programming-icons-flaticons-lineal-color-flat-icons-2.png" alt="API">
 </div>
 
 #
