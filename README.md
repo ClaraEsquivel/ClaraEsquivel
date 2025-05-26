@@ -1,9 +1,10 @@
 
 <div align="center">
-ㅤ- *Graduada em Análise e Desenvolvimento de Sistemas*
+ㅤGraduada em Análise e Desenvolvimento de Sistemas
   <br>
-  - *Cursando Téc. Desenvolvimento de Sistemas no SENAI (3º semestre)*
+  Cursando Téc. Desenvolvimento de Sistemas no SENAI (3º semestre)
 <div>
+  <br>
   <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=ClaraEsquivel&show_icons=true&theme=dracula" />
   <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraEsquivel&layout=compact&theme=dracula" />
 <div>
