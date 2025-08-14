@@ -4,7 +4,7 @@
 
 ⁙⁘ Graduada em Análise e Desenvolvimento de Sistemas
   <br>
-⁙⁘ Cursando Téc. Desenvolvimento de Sistemas no SENAI (3º semestre)
+⁙⁘ Cursando Téc. Desenvolvimento de Sistemas no SENAI (4º semestre)
 
 ---
 ### 🛠 Tech Stack
