@@ -4,7 +4,7 @@
 
 ⁙⁘ Graduada em Análise e Desenvolvimento de Sistemas
   <br>
-⁙⁘ Técnica. Desenvolvimento de Sistemas no SENAI
+⁙⁘ Técnica em Desenvolvimento de Sistemas pelo SENAI
 
 ---
 ### 🛠 Tech Stack
